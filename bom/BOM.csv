@@ -1,0 +1,88 @@
+Designator;Component;Type;Value;Rating;Voltage;Tolerance;Package;Manufacturer;Part number
+R1;Resistor;Thick film;1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04021K00FKED
+R2;Resistor;Thick film;5.6kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04025K60FKED
+R3;Resistor;Thick film;10kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW040210K0FKED
+R4;Resistor;Thick film;90.9kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW040290K9FKED
+R5;Resistor;Thick film;20kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04022’0K0FKED
+R6;Resistor;Thick film;200Ω;1/16W;50V;1%;0402;Vishay Dale;CRCW0402200RFKED
+R7;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R8;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R9;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R10;Resistor;Thick film;1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04021K00FKED
+R11;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R12;Resistor;Thick film;5.1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04025K10FKED
+R13;Resistor;Thick film;5.1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04025K10FKED
+R14;Resistor;Thick film;27Ω;1/16W;50V;1%;0402;Vishay Dale;CRCW040227R0FKED
+R15;Resistor;Thick film;27Ω;1/16W;50V;1%;0402;Vishay Dale;CRCW040227R0FKED
+R16;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R17;Resistor;Thick film;1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04021K00FKED
+R18;Resistor;Thick film;1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04021K00FKED
+R19;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R20;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R21;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R22;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R23;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R24;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R25;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R26;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R27;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R28;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R29;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R30;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R31;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R32;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R33;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R34;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R35;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R36;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R37;Resistor;Thick film;110Ω;1/10W;75V;1%;0603;Vishay Dale;CRCW0603110RFKEA
+R38;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R39;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R40;Resistor;Thick film;1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04021K00FKED
+R41;Resistor;Thick film;1kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04021K00FKED
+R42;Resistor;Thick film;120Ω;1/16W;50V;1%;0402;Vishay Dale;CRCW0402120RFKED
+R43;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R44;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R45;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R46;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R47;Resistor;Thick film;4.7kΩ;1/16W;50V;1%;0402;Vishay Dale;CRCW04024K70FKED
+R48;Resistor;Thick film;51Ω;1/16W;50V;1%;0402;Vishay Dale;CRCW040251R0FKED
+C1;Capacitor;MLCC;10µF;X7R;25V;10%;0805;Murata;GRM21BZ71E106KE15L
+C2;Capacitor;MLCC;22µF;X5R;16V;20%;0805;Samsung;CL10A226MO7JZNC
+C3;Capacitor;MLCC;2.2uF;X5R;25V;20%;0402;Murata Electronics;GRM155R61E225ME11D
+C4;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C5;Capacitor;MLCC;2.2uF;X5R;25V;20%;0402;Murata Electronics;GRM155R61E225ME11D
+C6;Capacitor;MLCC;2.2uF;X5R;25V;20%;0402;Murata Electronics;GRM155R61E225ME11D
+C7;Capacitor;MLCC;2.2uF;X5R;25V;20%;0402;Murata Electronics;GRM155R61E225ME11D
+C8;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C9;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C10;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C11;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C12;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C13;Capacitor;MLCC;15pF;C0G;50V;1%;0402;Murata Electronics;GRM1555C1H150FA01D
+C14;Capacitor;MLCC;15pF;C0G;50V;1%;0402;Murata Electronics;GRM1555C1H150FA01D
+C15;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C16;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C17;Capacitor;MLCC;12pF;C0G;25V;2%;0603;Vishay Vitramon;VJ0603A120GXXCW1BC
+C18;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C19;Capacitor;MLCC;100nF;X7R;50V;20%;0402;Murata Electronics;GRM155R71H104ME14J
+C20;Capacitor;MLCC;2.2uF;X5R;25V;20%;0402;Murata Electronics;GRM155R61E225ME11D
+F1;PTC;Polymer;750mA;50A;12V;;0805;Bourns;MF-PSML075/12-2
+FB1;Ferrite;;300mΩ;500mA;;;0805;Laird;HZ0805E601R-10
+L1;Inductor;;2.2µH;1.25A;;;;Würth Elektronik;74405020022
+X1;Crystal;;12MHz;;;;;Abracon;ABM10AIG-12.000MHZ-4Z-T3
+D1;Diode;Schottky;B5819W;1A;40V;;SOD323;Micro Commercial Components;B5819WS-TP
+D2;Diode;Schottky;B5819W;1A;40V;;SOD323;Micro Commercial Components;B5819WS-TP
+DL1;Diode;LED;Yellow-green;20mA;2V;;0603;Würth Elektronik;150060VS75000
+DL2;Diode;LED;Yellow;20mA;2V;;0603;Würth Elektronik;150060YS75000
+U1;Integrated circuit;Microcontroller;RP2040;;;;QFN56;Raspberry Pi;SC0914(13)
+U2;Integrated circuit;Flash memory;W25Q16JV;;;;USON8;Winbond;W25Q16JVUXIM TR
+U3;Integrated circuit;Switching regulator;RT5796A;1.5A;Adjustable;;SOT23-5;Richtek;RT5796AHGJ5
+U4;Integrated circuit;Bus transceiver;SN74LVT245;;;;TSSOP20;Texas Instruments;SN74LVT245BPWR
+U5;Integrated circuit;Buffer;SN74LVT125;;;;TSSOP14;Texas Instruments;SN74LVT125PWR
+U6;Integrated circuit;Bus transceiver;SN74LVT245;;;;TSSOP20;Texas Instruments;SN74LVT245BPWR
+U7;Integrated circuit;Buffer;SN74LVT125;;;;TSSOP14;Texas Instruments;SN74LVT125PWR
+S1;Switch;Tactile switch;;;;;;Panasonic;EVP-BL2A1B000
+K1;Connector;USB-C;;;;;;Amphenol;12402012E212A
+K2;Connector;Micro SD card;;;;;;CUI Devices;MSD-1-A
+K3;Connector;DB-25;;Male;;;;Adam Tech;DB25-PL-24
