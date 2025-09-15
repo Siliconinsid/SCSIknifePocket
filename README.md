@@ -10,9 +10,9 @@ SCSIknife Pocket is an extremely compact SCSI disk drive emulator designed to be
 
 # Hardware
 
-SCSIknife Pocket require 5.0VDC ± 0.5V which can be supplied by the SCSI termination or USB-C. SCSIknife Pocket is available in DB25 or HD50 version.
+SCSIknife Pocket require 5.0VDC ± 0.5V which can be supplied by the SCSI termination or USB-C. SCSIknife Pocket is available in DB25, HD50 or Centronics50 version.
 
-SCSI DB25 connector is male, but can be replaced with DB25 female if soldered on the underside of the board.
+SCSI DB25 connector is male, but can be replaced with DB25 female if soldered on the underside of the board. The same apply for other connector types.
 
 # Firmware
 
