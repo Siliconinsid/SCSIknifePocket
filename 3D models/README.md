@@ -70,7 +70,9 @@ Achievement unlocked! Prerequisite ready!
 
 ### Design of the enclosure
 
-FreeCAD was first envisaged to finalize the design of the enclosure, however current bugs or lack of explainantion on some recent changes have made it impossible to use. The free version of Autodesk Fusion 360 was used instead of the Open Source tool. After many attemps, the design with a sleeve and a back cover was retained.
+The main challenge of the design is to tightly maintain the PCB, with not sliding back and forth, and have the DB-25 "ears" register flush to the back of the computer on which it is mounted.
+
+FreeCAD was first envisaged to finalize the design of this enclosure, however current bugs or lack of documentation on some recent changes have made it impossible to use. The free version of Autodesk Fusion 360 was used instead of that Open Source tool. After many attemps, the design with a sleeve and a back cover was retained. An optional plaque can display a logo, or some custom metal plaque could be stuck on the top surface of the sleeve.  
 
 **Note:** A SCSI disk DB-25 should be of male gender, however only the female model was available as a 3D model. This has no impact on the design itself.
 
