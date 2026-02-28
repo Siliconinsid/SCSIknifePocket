@@ -70,7 +70,7 @@ Achievement unlocked! Prerequisite ready!
 
 ### Design of the enclosure
 
-The main challenge of the design is to tightly maintain the PCB, with not sliding back and forth, and have the DB-25 "ears" register flush to the back of the computer on which it is mounted.
+The main challenge of the design is to tightly maintain the PCB, with no sliding back and forth, and have the DB-25 "ears" register flush to the back of the computer on which it is mounted. In this version, a this façade is used.
 
 FreeCAD was first envisaged to finalize the design of this enclosure, however current bugs or lack of documentation on some recent changes have made it impossible to use. The free version of Autodesk Fusion 360 was used instead of that Open Source tool. After many attemps, the design with a sleeve and a back cover was retained. An optional plaque can display a logo, or some custom metal plaque could be stuck on the top surface of the sleeve.  
 
