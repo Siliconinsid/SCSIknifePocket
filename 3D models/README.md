@@ -49,7 +49,7 @@ Change to the *Sketcher* Workbench. The PCB and the Card Reader have arcs compos
     * [The USB-C female connector, labeled "HRO_TYPE-C-31-M-12"](https://grabcad.com/library/type-c-31-m-12-1)
     * [The TF card reader, labeled "L-KLS1-TF-0.03\_ALL001"](https://grabcad.com/library/tf-01a-1) 
 
-To insert one of those library component, you can download them from the GrabCAD portal through Community/Library menu, after creation of a free account. Ideally, the files are in .STEP format, otherwise on-line tools exist to convert them. The STEP file will be opened as separate document in FreeCAD then the file with the abovementioned labels can be dragged and dropped into the PCB project tree view.
+To insert one of those library components, you can download it from the GrabCAD portal through Community/Library menu, after creation of a free account. Ideally, the files are in .STEP format, otherwise on-line tools exist to convert them. The STEP file will be opened as separate document in FreeCAD then the file with the abovementioned labels can be dragged and dropped into the PCB project tree view.
 
 Each objet in FreeCAD can be "placed", then on top of the applied changes from the library view, they can be moved around or rotated again.
 
