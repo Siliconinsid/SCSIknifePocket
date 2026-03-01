@@ -18,28 +18,28 @@ Open Source tools used in this part of the project:
 
 An account on the [GrabCAD portal](https://grabcad.com) is also used.
 
-The overall procedure is to start from the layout of the PCB, simplying it then import its geometry into the CAD system used for the enclosure design. The geometry of the circuit is transfered from the SVG to the CAD system, then ready-made 3D model of the components are added to recreate a realistic volumetry of the fully equiped circuit.
+The overall procedure is to start from the layout of the PCB, to simply it, then to import its geometry into the CAD system used for the enclosure design. The geometry of the circuit is transfered from the SVG to the CAD system, then ready-made 3D models of the components are added to recreate a realistic volumetry of the fully equiped circuit.
 
 ## Prerequisite elaboration
 ### Simplifying the layout
-The input is the file schematcs/layout.pdf, imported in Inkscape.
-Most components of the circuit are low profile CMS components which require next to nothing in terms of overhead space allocation. Therefore, only the footprint of the largest ones, two connectors and a memory card reader are retained and their precise placement transferred to FreeCAD. Only 4 paths remain, the PCB outline and the footprint of the main components.
+The input is the file *schematcs/layout.pdf*, it is imported into Inkscape, an Adobe Illustrator® like tool.
+Most components of the circuit are low profile CMS components, they require next to nothing in overhead space allocation. Therefore, only the footprint of the largest ones, two connectors and a memory card reader are retained and their precise placement transferred to FreeCAD. Only those four paths remain, the PCB outline and the footprint of the main components.
 
 The result is exported as pcb_simplified.svg
 
 <img width="600px" src="images/pcb_simplified.png" /> 
 
-### Importing in the CAD system
+### Importing into the CAD system
 FreeCAD is divided in multiple *Workbenches*, each one is specialized in some specific tasks.
 
 * *Sketcher*: Used to streamline the paths and to reduce all of the remaining "Degrees Of Freedom" or DOF. 
 * *Draft*: Used to transform the drawing into CAD sketches.
 * *Part*: Used to compose a simplified 3D model of the circuit.
 
-The import happens in the *Draft* workbench, Select Import... in the File menu, select simplified_pcb.svg, then the second option "As a geometry". Four objets are added to the tree of the model. Select each of them then click on the Red/Blue icon to transform each path into a sketch.  Rename them for an easy selection.
+The import happens in the *Draft* workbench, choose *Import...* in the **File** menu, and select *simplified_pcb.svg*, then the second option *"As a geometry"*. Four objets are added to the tree of the model. Select each of them then click on the red/blue icon in the top toolbar to transform each path into a sketch.  Rename them for an easy selection.
 Change to the *Sketcher* Workbench. The PCB and the Card Reader have arcs composed with multiple segments causing some green cluttering of the drawing.
     * Replace multiple segments with single arcs primitives. Deactivate all of the constraints, the total number of DOFs is then displayed. 
-    * Reduce this number to nothing, with the paths highlighted in a single colour: To do so, add a "blocker" (red X in a circle) constraint on some of the edges. If the addition is not effective in decreasing the number of DOFs, just undo it and try another one. Additional attention is required for the PCB outline which needs to be a closed path. Examine the 6 vertices, if any does not seem a perfect circle, select them and apply a coincidence constraint, reducing all neighbour points to a single one.
+    * Reduce this number to nothing, with the paths highlighted in a single colour: To do so, add a "blocker" (red X in a circle) constraint on some of the edges. If the addition is not effective in decreasing the number of DOFs, just undo it and try another one. Additional attention is required for the PCB outline which needs to be a closed path. Examine the 6 vertices, if any does not seem a perfect circle, select them and apply a *Coincidence* constraint, reducing all neighbour points to a single one.
 
 ### Design and populate the Circuit 3D model
 
