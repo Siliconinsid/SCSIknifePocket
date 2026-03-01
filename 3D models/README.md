@@ -21,7 +21,7 @@ An account on the [GrabCAD portal](https://grabcad.com) is also used.
 The overall procedure is to start from the layout of the PCB, to simply it, then to import its geometry into the CAD system used for the enclosure design. The geometry of the circuit is transfered from the SVG to the CAD system, then ready-made 3D models of the components are added to recreate a realistic volumetry of the fully equiped circuit.
 
 ## Prerequisite elaboration
-### Simplifying the layout
+### Simplify the layout
 The input is the file *schematcs/layout.pdf*, it is imported into Inkscape, an Adobe Illustrator® like tool.
 Most components of the circuit are low profile CMS components, they require next to nothing in overhead space allocation. Therefore, only the footprint of the largest ones, two connectors and a memory card reader are retained and their precise placement transferred to FreeCAD. Only those four paths remain, the PCB outline and the footprint of the main components.
 
@@ -29,7 +29,7 @@ The result is exported as pcb_simplified.svg
 
 <img width="600px" src="images/pcb_simplified.png" /> 
 
-### Importing into the CAD system
+### Import into the CAD system
 FreeCAD is divided in multiple *Workbenches*, each one is specialized in some specific tasks.
 
 * *Sketcher*: Used to streamline the paths and to reduce all of the remaining "Degrees Of Freedom" or DOF. 
