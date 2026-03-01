@@ -51,7 +51,7 @@ Change to the *Sketcher* Workbench. The PCB and the Card Reader have arcs compos
 
 To insert one of those library components, you can download it from the GrabCAD portal through Community/Library menu, after creation of a free account. Ideally, the files are in .STEP format, otherwise on-line tools exist to convert them. The STEP file will be opened as separate document in FreeCAD then the file with the abovementioned labels can be dragged and dropped into the PCB project tree view.
 
-Each objet in FreeCAD can be "placed", then on top of the applied changes from the library view, they can be moved around or rotated again.
+Each objet in FreeCAD can be "placed", then on top of the applied changes from the library view, they can be moved around or rotated again to match the alignment of their footprint in the CAD tool **TOP** view.
 
 Select the component in the tree, in the bottom panel activate the "Data" tab to see and edit the values.
 
